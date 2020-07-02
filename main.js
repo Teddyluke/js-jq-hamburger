@@ -1,6 +1,6 @@
 
 $(".fa-bars").click(function () {
-  $(".hamburger-menu").fadeIn("slow").addClass("active");
+  $(".hamburger-menu").fadeIn("slow");
 });
 
 $("a.close").click(function () {
